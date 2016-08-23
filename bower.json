@@ -1,6 +1,6 @@
 {
   "name": "jquery-bbq",
-  "homepage": "https://github.com/TurnerBroadcasting/jquery-bbq",
+  "homepage": "https://github.com/adslaton/jquery-bbq.git",
   "description": "",
   "main": "jquery.ba-bbq.js",
   "dependencies": {
